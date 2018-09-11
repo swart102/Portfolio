@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: black;
+}
+
+h5 {
+    line-height: 2.25;
+}
+
+
+.container {
+    font-family: 'Lora', serif;
+}
+
+.row {
+    margin: 10px;
+}
+
+.home {
+    background-color: rgb(143, 160, 182);
+    color: white;
+    padding: 10%;
+    margin: 5px;
+    height: 300px;
+    text-align: center;
+}
+
+.section {
+    background-color: rgb(143, 160, 182);
+    color: white;
+    height: 1000px;
+    margin: 15px;
+    text-align: left;
+    padding: 5%;
+}
+
+.project {
+    padding: 5px;
+    margin: 15px;
+    text-align: center;
+
+}
+
+.grad {
+    background-image: linear-gradient(black, white);
+}
+
+.card {
+    background-color:rgb(111, 130, 155);
+    padding: 10px;
+    margin:auto;
+}
+
+.card-img-top {
+    width: 256px;
+    margin: 5px;
+}
+
+.card-text {
+    color: whitesmoke;
+}
+
+.card-title {
+    color: whitesmoke;
+    padding: 5px;
+    line-height: 1;
+}
+
+.card-body {
+    padding: 5px;
+}
+
+#aboutImg {
+    width: 300px;
+    height: 825px;
+}
+
+#sectionPortfolio {
+    height: 1100px;
+}
+
+
+
